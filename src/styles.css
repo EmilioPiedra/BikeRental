@@ -1,0 +1,47 @@
+.custom-navbar {
+    background-color: #BE0F30 !important;
+}
+
+#seccion-inicio-sesion {
+    margin-top: 50px;
+}
+
+.mi-boton-personalizado {
+    background-color: #C5A76A;
+    border-color: #C5A76A;
+    color: #fff;
+}
+
+
+.icono-usuario {
+    font-size: 45px;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: #fff;
+}
+
+.texto-grande {
+    font-size: 20px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+}
+
+.texto-derecha {
+    text-align: right;
+    margin: 45px;
+}
+
+.texto-izquierda {
+    text-align: left;
+    margin: 45px;
+}
